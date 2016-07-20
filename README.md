@@ -2,7 +2,7 @@
 
 d-prox is a DNS proxy which tunnels DNS requests over a SOCKS proxy using TCP. This allows you to use a SOCKS proxy (e.g. Tor) for name resolution.
 
-For more details and a tutorial, check out <http://jaiverma.com/projects/d-prox>
+For more details and a tutorial, check out <http://www.jaiverma.com/blog/proxying-dns/>
 
 ## Version
 
